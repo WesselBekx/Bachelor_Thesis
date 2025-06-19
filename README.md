@@ -6,7 +6,7 @@ This repository contains the data and Python scripts used for the paper 'Analyzi
 
 There are two ways to reproduce the results.
 
-### Option 1: Analyze the Pre-processed Data =
+### Option 1: Analyze the Pre-processed Data
 
 This is the fastest and simplest method. It uses the final, processed dataset to run the regression model directly, bypassing the time-consuming data preparation steps.
 
